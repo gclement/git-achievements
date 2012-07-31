@@ -2,6 +2,7 @@
 <title>Gregory CLEMENT's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Archivist (Level 5)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 <item><title>Stone Mason (Level 5)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Author (Level 6)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Apprentice Gipsy (Level 1)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Goldsmith (Level 1)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
 <item><title>Author (Level 5)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Master Fisherman (Level 7)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
-<item><title>Apprentice Pilgrim (Level 1)</title><description>Performed a rebase using git rebase --onto.</description></item>
 </channel></rss>
