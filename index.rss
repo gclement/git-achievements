@@ -2,6 +2,7 @@
 <title>Gregory CLEMENT's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Pilgrim (Level 3)</title><description>Performed a rebase using git rebase --onto.</description></item>
 <item><title>Butcher (Level 6)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Apprentice Miller (Level 1)</title><description>Add only part of a file to the stage 50 times with git add -p.</description></item>
 <item><title>Apprentice Locksmith (Level 3)</title><description>Add Signed-off-by line at the end of the commit log message using git commit -s.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Banker (Level 2)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Apprentice Product Manager (Level 2)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Socialite (Level 4)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Apprentice Product Manager (Level 1)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 </channel></rss>
