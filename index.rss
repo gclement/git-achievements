@@ -2,6 +2,7 @@
 <title>Gregory CLEMENT's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Hunter (Level 1)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 <item><title>Banker (Level 5)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Gipsy (Level 5)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 <item><title>Postman (Level 5)</title><description>Send a collection of patches with git imap-send or git send-email</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Miller (Level 3)</title><description>Add only part of a file to the stage 117 times with git add -p.</description></item>
 <item><title>Master Archivist (Level 7)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 <item><title>Seamstress (Level 5)</title><description>amended a commit with git commit --amend.</description></item>
-<item><title>Apprentice Merchant (Level 3)</title><description>Added an external repository with git remote add.</description></item>
 </channel></rss>
