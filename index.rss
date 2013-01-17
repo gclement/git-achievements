@@ -2,6 +2,7 @@
 <title>Gregory CLEMENT's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Author (Level 9)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Collector (Level 6)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Garage Inventor</title><description>Used a custom alias for a Git command</description></item>
 <item><title>Messenger (Level 5)</title><description>Applied a patch using git am.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Banker (Level 5)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Gipsy (Level 5)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 <item><title>Postman (Level 5)</title><description>Send a collection of patches with git imap-send or git send-email</description></item>
-<item><title>Collector (Level 4)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 </channel></rss>
