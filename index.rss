@@ -2,6 +2,7 @@
 <title>Gregory CLEMENT's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Seamstress (Level 7)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Hunter (Level 6)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 <item><title>Master Butcher (Level 8)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Master Fisherman (Level 10)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Garage Inventor</title><description>Used a custom alias for a Git command</description></item>
 <item><title>Messenger (Level 5)</title><description>Applied a patch using git am.</description></item>
 <item><title>Master Socialite (Level 7)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Thug (Level 6)</title><description>Forced pushed a branch with git push -f</description></item>
 </channel></rss>
